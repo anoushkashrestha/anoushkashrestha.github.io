@@ -1,17 +1,20 @@
 url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+baseurl: /portfolio/
 
 # Site settings
 title: Portfolio
 email: anoushka.shrestha111@gmail.com
 
 # Team names, titles and social links
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: http://twitter.com/jekyllrb
+    url: https://www.linkedin.com/in/anoushka-shrestha-357a9a157/
   - title: facebook
-    url:
+    url: https://www.facebook.com/anoushka.shrestha.7
+  - title: instagram
+    url: https://instagram.com/anoushka_shrestha/ 
 
 # Postal address (add as many lines as necessary)
 address:
